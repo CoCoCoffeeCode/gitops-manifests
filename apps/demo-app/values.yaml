@@ -1,0 +1,8 @@
+replicaCount: 1
+
+image:
+  repository: ""
+  tag: "latest"
+
+service:
+  port: 3000
