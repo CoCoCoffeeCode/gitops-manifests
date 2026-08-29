@@ -19,6 +19,6 @@ spec:
             - containerPort: {{ .Values.service.port }}
           readinessProbe:
             httpGet:
-              path: /health
+              path: /actuator/health
               port: {{ .Values.service.port }}
             initialDelaySeconds: 3
