@@ -1,8 +1,8 @@
 replicaCount: 1
 
 image:
-  repository: ""
-  tag: "latest"
+  repository: "000000000000.dkr.ecr.us-east-1.localhost:5100/demo/app/application-demo-git-workflow"
+  tag: "eb8168f626be5360cef939b7ba32e691daee65a6"
 
 service:
   port: 3000
