@@ -5,4 +5,4 @@ image:
   tag: "eb8168f626be5360cef939b7ba32e691daee65a6"
 
 service:
-  port: 3000
+  port: 8080
