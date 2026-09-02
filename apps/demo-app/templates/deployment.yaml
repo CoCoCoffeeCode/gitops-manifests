@@ -4,6 +4,7 @@ metadata:
   name: demo-app
 spec:
   replicas: {{ .Values.replicaCount }}
+  revisionHistoryLimit: 4
   selector:
     matchLabels:
       app: demo-app
