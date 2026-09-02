@@ -8,7 +8,7 @@ spec:
   source:
     repoURL: https://github.com/CoCoCoffeeCode/gitops-manifests.git
     targetRevision: main
-    path: apps/demo-app
+    path: apps/application-demo-git-workflow
     helm:
       valueFiles:
         - values.yaml
