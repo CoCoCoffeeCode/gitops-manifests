@@ -1,3 +1,6 @@
 image:
   repository: "000000000000.dkr.ecr.us-east-1.localhost:5100/demo/app/application-demo-git-workflow"
   tag: "main-9bb79ca"
+
+ingress:
+  enabled: true
