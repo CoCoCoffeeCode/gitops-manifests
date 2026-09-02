@@ -1,3 +1,2 @@
 image:
-  repository: "000000000000.dkr.ecr.us-east-1.localhost:5100/demo/app/application-demo-git-workflow"
   tag: "ce5f8b8754c4d70f50db5547e22281ab04d1e9a9"
